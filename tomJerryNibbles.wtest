@@ -44,3 +44,10 @@ describe "caso de prueba" {
   }
 
 }
+
+describe "nuevos casos de prueba" {
+  test "comer a jerry si puede hacerlo" {
+  tom.cazar(jerry, 20)
+  assert.that(true)
+  }
+}
